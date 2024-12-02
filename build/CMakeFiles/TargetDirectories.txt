@@ -1,0 +1,3 @@
+/Users/guanyulu/Documents/GitHub/synthBox/build/CMakeFiles/synthbox.dir
+/Users/guanyulu/Documents/GitHub/synthBox/build/CMakeFiles/edit_cache.dir
+/Users/guanyulu/Documents/GitHub/synthBox/build/CMakeFiles/rebuild_cache.dir
